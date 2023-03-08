@@ -1,2 +1,2 @@
-read this, I used vim to create it
+#!/bin/bash
 $ wc -l README.md
